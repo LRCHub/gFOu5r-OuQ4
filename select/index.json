@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Casket Girl",
+  "base_artist": "藤井 風",
+  "createdAt": "2026-01-14T03:42:33.954876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Casket Girl",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_Casket_Girl_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Casket Girl",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_Casket_Girl_藤井_風.txt"
+    }
+  ]
+}
